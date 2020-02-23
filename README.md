@@ -8,7 +8,7 @@ Team Ralph's Angels
 Tulay is a two-platform app that aims to intiate cultural awareness which can be deepened through cultural immersion, thus forming cultural intelligence. The end goal of the app is to attain a high degree of cultural integrity in the country. The first platform of Tulay is through a Messenger bot with the aim of providing cultural information about the Philippines. This platform is chosen to cater to people who want to be more culturally aware but do not always have access to wi-fi or mobile data. The second platform is geared with a deeper, more immersive cultural experience aimed at people who want to travel but are on a tight budget. The mobile application is intended to connect explorers who want to learn more about other cultures with local experts who are equipped with such cultural knowledge. Through the expertise of locals, an explorer may be able to gain a better understanding and appreciation of another's culture.
 
 ## Installation Guide
-For the messenger bot: As of the moment, only the owner has access to the back-end of the messenger bot that we created. However, you may refer to our powerpoint presentation to witness how the messenger bot works. To replicate it, you need to follow the following steps:
+Only the owner has access to the back-end of the messenger bot that we created due to the limitations of Facebook Messenger API. However, you may refer to our powerpoint presentation to witness how the messenger bot works. To replicate it, you need to follow the following steps:
 1. Create a Facebook Page
 2. Open [Facebook for Developers](https://developers.facebook.com/) and create chatbot
 3. Connect the chatbot to your Facebook Page
@@ -17,7 +17,7 @@ For the messenger bot: As of the moment, only the owner has access to the back-e
 6. Deploy the app through App Engine
 7. Profit
 
-For the mobile application: Access the prototype at https://www.figma.com/proto/47UGOufBkCJ16NK3fjSiDz/Tulay?node-id=20%3A2&scaling=scale-down Note that only the "Explorer" option works in the prototype.
+The mobile application is developed using Figma. Access the prototype [here](https://www.figma.com/proto/47UGOufBkCJ16NK3fjSiDz/Tulay?node-id=20%3A2&scaling=scale-down). Note that only the "Explorer" option works in the prototype.
 
 ## Application Guidelines
 The following langauges and frameworks were used in creating Tulay:
